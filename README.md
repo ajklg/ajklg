@@ -1,4 +1,4 @@
-### My name is Andrew
+### My name is Andrew!
 
 I am a computer engineering major at CSU Long Beach!  
 My hobbies are playing basketball, surfing, and cooking!  
