@@ -1,5 +1,8 @@
-### Hi there 👋
+### My name is Andrew
 
+I am a computer engineering major at CSU Long Beach!
+My hobbies are playing basketball, surfing, and cooking!
+I am interested in computer hardware design and am searching for jobs and internships related to the field!
 <!--
 **ajklg/ajklg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
